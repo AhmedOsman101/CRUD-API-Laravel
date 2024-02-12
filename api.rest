@@ -1,0 +1,8 @@
+### get all users
+GET /api/customers HTTP/1.1
+Host: localhost:8000
+
+### get one user
+GET /api/customers/1 HTTP/1.1
+Host: localhost:8000
+
